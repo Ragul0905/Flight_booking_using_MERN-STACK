@@ -6,6 +6,7 @@ Team Members
    3.Yogeshwaran
    4.Sivabalan
    5.Tamilarasu
+
 Introduction
 This project is a responsive flight booking application designed to make it easy for users to search for, compare, and book flights. With a user-friendly interface and streamlined search functionalities, it helps travelers find the best flights to suit their needs.
 
